@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ashishSilswal
 - 👀 I’m interested in mobile App's development related technologies
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [+919012715098]
+- 📫 How to reach me [+919012715098] [aashish.silswal@gmail.com]
 
 <!---
 ashishSilswal/ashishSilswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
